@@ -60,8 +60,8 @@ VaultGhost is an independent evidence-layer protocol for AI interaction provenan
 
 | Repo | Status | Visibility | Purpose | Notes |
 |---|---|---|---|---|
-| [vaultghost-turn-records](https://github.com/drosenbluth25/vaultghost-turn-records) | Archival | Public | Cross-platform captured-boundary turn records | Perplexity and Grok records with OpenTimestamps Bitcoin anchoring |
-| [vaultghost-stub](https://github.com/drosenbluth25/vaultghost-stub) | Implemented | Public | Reference implementation stub | Python + Rust; CC0; intended as a red-team review target |
+| [vaultghost-turn-records](https://github.com/drosenbluth25/vaultghost-turn-records) | Archival | Public | Cross-platform captured-boundary turn records | Historical turn-record fixtures; placeholder/simulated timestamp material; no verified anchoring claim. |
+| [vaultghost-stub](https://github.com/drosenbluth25/vaultghost-stub) | Implemented | Public | Reference implementation stub | Reference/stub repository; license decision pending because no LICENSE file is currently present. |
 | vaultghost-integration | Experimental | Private/Internal | Integration layer | Active development; not stable |
 
 ---
@@ -89,7 +89,7 @@ VaultGhost is an independent evidence-layer protocol for AI interaction provenan
 License terms vary by repository:
 
 - `vaultghost-protocol` — Apache-2.0
-- `vaultghost-stub` — CC0
+- `vaultghost-stub` — reference/stub repository. Its README previously referenced CC0 intent, but no LICENSE file is currently present; license decision remains pending until owner confirmation.
 - Other repos carry their own licenses where present
 
 This profile repository itself does not currently carry a `LICENSE` file — license decision required.

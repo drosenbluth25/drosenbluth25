@@ -51,5 +51,5 @@ Statuses follow the legend used in [`REPOS.md`](REPOS.md): **Implemented**, **Sp
 
 ## Notes
 
-- License terms vary by repository. The protocol specification (`vaultghost-protocol`) is released under Apache-2.0; the reference stub (`vaultghost-stub`) is CC0. Other repos carry their own licenses where present. This profile repository itself does not currently carry a `LICENSE` file — license decision required.
+- License terms vary by repository. The protocol specification (`vaultghost-protocol`) is released under Apache-2.0. vaultghost-stub is a reference/stub repository. Its README previously referenced CC0 intent, but no LICENSE file is currently present; license decision remains pending until owner confirmation. Other repos carry their own licenses where present. This profile repository itself does not currently carry a `LICENSE` file — license decision required.
 - Serious build phase began January 2026; the GitHub account dates to 2022.
